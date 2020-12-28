@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ywfnvry7u01J8mV/1u1rjWeEEa3/oT6vO1J87GvR9GE8jDLy6T4IYqwySt27qrnDQs4qkCChGn4YijKRQ0XLCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lusi\\Programirane\\SoftUni_C# OOP 2020\\3. CSharp-OOP-Working-with-Abstraction-Lab-Resources\\StudentSystem\\StudentSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lusi\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lusi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lusi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lusi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lusi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lusi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
