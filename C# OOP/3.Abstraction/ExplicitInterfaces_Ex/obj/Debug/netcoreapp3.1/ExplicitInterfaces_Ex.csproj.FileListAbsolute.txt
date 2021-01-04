@@ -1,0 +1,13 @@
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\bin\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.exe
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\bin\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.deps.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\bin\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.runtimeconfig.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\bin\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.runtimeconfig.dev.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\bin\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\bin\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.csprojAssemblyReference.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.AssemblyInfoInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.AssemblyInfo.cs
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\ExplicitInterfaces_Ex\obj\Debug\netcoreapp3.1\ExplicitInterfaces_Ex.genruntimeconfig.cache
