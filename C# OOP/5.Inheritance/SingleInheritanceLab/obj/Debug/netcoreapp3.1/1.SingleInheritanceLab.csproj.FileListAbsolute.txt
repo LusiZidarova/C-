@@ -1,0 +1,13 @@
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\bin\Debug\netcoreapp3.1\1.SingleInheritanceLab.exe
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\bin\Debug\netcoreapp3.1\1.SingleInheritanceLab.deps.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\bin\Debug\netcoreapp3.1\1.SingleInheritanceLab.runtimeconfig.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\bin\Debug\netcoreapp3.1\1.SingleInheritanceLab.runtimeconfig.dev.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\bin\Debug\netcoreapp3.1\1.SingleInheritanceLab.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\bin\Debug\netcoreapp3.1\1.SingleInheritanceLab.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.csprojAssemblyReference.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.AssemblyInfoInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.AssemblyInfo.cs
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\Inheritance\1.SingleInheritanceLab\obj\Debug\netcoreapp3.1\1.SingleInheritanceLab.genruntimeconfig.cache
