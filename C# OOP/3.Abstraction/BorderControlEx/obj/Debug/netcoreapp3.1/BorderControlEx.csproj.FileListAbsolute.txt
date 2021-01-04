@@ -1,0 +1,13 @@
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\bin\Debug\netcoreapp3.1\BorderControlEx.exe
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\bin\Debug\netcoreapp3.1\BorderControlEx.deps.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\bin\Debug\netcoreapp3.1\BorderControlEx.runtimeconfig.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\bin\Debug\netcoreapp3.1\BorderControlEx.runtimeconfig.dev.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\bin\Debug\netcoreapp3.1\BorderControlEx.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\bin\Debug\netcoreapp3.1\BorderControlEx.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.csprojAssemblyReference.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.csproj.CoreCompileInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.AssemblyInfoInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.AssemblyInfo.cs
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\BorderControlEx\obj\Debug\netcoreapp3.1\BorderControlEx.genruntimeconfig.cache
