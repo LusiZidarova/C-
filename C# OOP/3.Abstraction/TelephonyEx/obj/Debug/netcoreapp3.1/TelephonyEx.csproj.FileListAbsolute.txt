@@ -1,0 +1,13 @@
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.csprojAssemblyReference.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.csproj.CoreCompileInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.AssemblyInfoInputs.cache
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.AssemblyInfo.cs
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\bin\Debug\netcoreapp3.1\TelephonyEx.exe
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\bin\Debug\netcoreapp3.1\TelephonyEx.deps.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\bin\Debug\netcoreapp3.1\TelephonyEx.runtimeconfig.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\bin\Debug\netcoreapp3.1\TelephonyEx.runtimeconfig.dev.json
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\bin\Debug\netcoreapp3.1\TelephonyEx.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\bin\Debug\netcoreapp3.1\TelephonyEx.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.dll
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.pdb
+C:\Users\Lusi\Programirane\SoftUni_C# OOP 2020\3.Abstraction\3.Abstraction\TelephonyEx\obj\Debug\netcoreapp3.1\TelephonyEx.genruntimeconfig.cache
